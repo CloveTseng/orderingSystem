@@ -1,35 +1,20 @@
-# orderingSystem
+# 2025 Vue 直播班 - 點餐系統
 
-This template should help get you started developing with Vue 3 in Vite.
+<img src="" alt="">
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 專案簡介
 
-## Customize configuration
+線上預覽 Demo : []()
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## 專案特色
 
-## Project Setup
+## 使用技術
+- Vue
+- TailwindCSS
+- Vite
 
-```sh
-npm install
-```
+## 專案結構
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+## 使用套件
+- gh-pages
